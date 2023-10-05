@@ -1,0 +1,43 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ffd84b;
+    text-align: center;
+    color: #333;
+    font-size: 20px; /* Font size for long text */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px; /* Large font size for headlines */
+    font-weight: 600; /* Bold font weight for headlines */
+    color: #ff6b6b; /* Bold red for an impressive headline */
+}
+
+main {
+    padding: 20px;
+}
+
+#lyrics {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px; /* Font size for long text */
+    line-height: 1.6; /* Line height between 1.5 and 2 for normal-sized text */
+    text-align: left;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-weight: 400; /* Regular font weight for text */
+    color: #4CAF50; /* Green for a fresh and impressive look */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
